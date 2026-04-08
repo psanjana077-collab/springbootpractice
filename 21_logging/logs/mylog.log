@@ -1,0 +1,3 @@
+2025-07-15T00:42:21.358+05:30  INFO 6980 --- [21_logging] [main] com.sbp.Application                      : Starting Application using Java 20.0.2 with PID 6980 (C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\21_logging\target\classes started by HP in C:\Users\HP\Documents\workspace-spring-tool-suite-4-4.22.1.RELEASE\21_logging)
+2025-07-15T00:42:21.362+05:30  INFO 6980 --- [21_logging] [main] com.sbp.Application                      : No active profile set, falling back to 1 default profile: "default"
+2025-07-15T00:42:22.162+05:30  INFO 6980 --- [21_logging] [main] com.sbp.Application                      : Started Application in 1.562 seconds (process running for 2.869)

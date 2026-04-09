@@ -1,0 +1,7 @@
+com\sbp\MyController.class
+com\sbp\Application.class
+com\sbp\Users.class
+com\sbp\SecurityConfig.class
+com\sbp\UserRepository.class
+com\sbp\MyUserDetails.class
+com\sbp\MyUserDetailsService.class
